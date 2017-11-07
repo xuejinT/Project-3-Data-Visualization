@@ -87,7 +87,9 @@ mobile style*/
 h1{
 	font-size: 22pt;
 }
-
+.header{
+	background-attachment: scroll;
+}
 .content-header{
 	padding-top: 275px;
 	margin-left: -2px;
