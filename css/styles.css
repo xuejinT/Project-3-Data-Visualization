@@ -5,6 +5,9 @@
     background-repeat: no-repeat;
     padding-top: 8px;
     padding-bottom: 35px;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
 }
 #logo{
 	width:30%;
