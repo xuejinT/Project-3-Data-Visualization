@@ -1,0 +1,1010 @@
+[
+  {
+    "restaurant": "Fat Duck",
+    "location": "Bray, Berkshire, United Kingdom",
+    "food type": "Creative",
+    "average price": "350.0",
+    "reservation required": "Y",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Waterside Inn",
+    "location": "Bray, Berkshire, United Kingdom",
+    "food type": "French",
+    "average price": "235.0",
+    "reservation required": "Y",
+    "seating capacity": "75.0"
+  },
+  {
+    "restaurant": "Gordon Ramsay",
+    "location": "London, United Kingdom",
+    "food type": "French",
+    "average price": "195.0",
+    "reservation required": "Y",
+    "seating capacity": "45.0"
+  },
+  {
+    "restaurant": "Alain Ducasse at The Dorchester",
+    "location": "London, United Kingdom",
+    "food type": "Modern French",
+    "average price": "195.0",
+    "reservation required": "Y",
+    "seating capacity": "82.0"
+  },
+  {
+    "restaurant": "The Araki",
+    "location": "London, United Kingdom",
+    "food type": "Japanese",
+    "average price": "490.0",
+    "reservation required": "Y",
+    "seating capacity": "9.0"
+  },
+  {
+    "restaurant": "Schwarzwaldstube",
+    "location": "Berlin, Germany",
+    "food type": "French",
+    "average price": "220.0",
+    "reservation required": "Y",
+    "seating capacity": "35.0"
+  },
+  {
+    "restaurant": "Restaurant Bareiss",
+    "location": "Baiersbornn, Germany",
+    "food type": "French",
+    "average price": "185.0",
+    "reservation required": "Y",
+    "seating capacity": "35.0"
+  },
+  {
+    "restaurant": "Vendôme",
+    "location": "Baiersbronn, Germany",
+    "food type": "Creative",
+    "average price": "232.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Waldhotel Sonnora",
+    "location": "Dreis, Germany",
+    "food type": "French",
+    "average price": "184.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "The Table",
+    "location": "Hamburg, Germany",
+    "food type": "Creative",
+    "average price": "226.0",
+    "reservation required": "Y",
+    "seating capacity": "20.0"
+  },
+  {
+    "restaurant": "La Vie",
+    "location": "Osnabruck, Germany",
+    "food type": "Creative",
+    "average price": "235.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Victor's Fine Dining by christian bau",
+    "location": "Perl, Germany",
+    "food type": "Creative",
+    "average price": "222.0",
+    "reservation required": "N",
+    "seating capacity": "34.0"
+  },
+  {
+    "restaurant": "Restaurant Überfahrt Christian Jürgens",
+    "location": "Rottach-Egern, Germany",
+    "food type": "Creative",
+    "average price": "222.0",
+    "reservation required": "Y",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "GästeHaus Klaus Erfort",
+    "location": "Saarbrucken, Germany",
+    "food type": "French",
+    "average price": "177.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "35.0"
+  },
+  {
+    "restaurant": "Aqua",
+    "location": "Wolfsburg, Germany",
+    "food type": "Creative",
+    "average price": "207.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "36.0"
+  },
+  {
+    "restaurant": "Piazza Duomo",
+    "location": "Alba, Italy",
+    "food type": "Creative",
+    "average price": "214.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "35.0"
+  },
+  {
+    "restaurant": "Da Vittorio",
+    "location": "Brusaporto, Italy",
+    "food type": "Modern Italian",
+    "average price": "227.0",
+    "reservation required": "N",
+    "seating capacity": "36.0"
+  },
+  {
+    "restaurant": "Dal Pescatore",
+    "location": "Canneto sull'Oglio, Italy",
+    "food type": "Modern Italian",
+    "average price": "203.0",
+    "reservation required": "N",
+    "seating capacity": "20.0"
+  },
+  {
+    "restaurant": "Reale",
+    "location": "Castel di Sangro, Italy",
+    "food type": "Creative",
+    "average price": "149.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "24.0"
+  },
+  {
+    "restaurant": "Enoteca Pinchiorri",
+    "location": "Florence, Italy",
+    "food type": "Modern Italian",
+    "average price": "267.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "35.0"
+  },
+  {
+    "restaurant": "Osteria Francescana",
+    "location": "Modena, Italy",
+    "food type": "Creative",
+    "average price": "250.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "30.0"
+  },
+  {
+    "restaurant": "La Pergola",
+    "location": "Rome, Italy",
+    "food type": "Modern Italian",
+    "average price": "208.0",
+    "reservation required": "Y",
+    "seating capacity": "120.0"
+  },
+  {
+    "restaurant": "Le Calandre",
+    "location": "Rubano, Italy",
+    "food type": "Creative",
+    "average price": "210.0",
+    "reservation required": "N",
+    "seating capacity": "24.0"
+  },
+  {
+    "restaurant": "Gyoten",
+    "location": "Fukuoka, Japan",
+    "food type": "Japanese - Sushi",
+    "average price": "170.0",
+    "reservation required": "Y",
+    "seating capacity": "10.0"
+  },
+  {
+    "restaurant": "Nakashima",
+    "location": "Hiroshima, Japan",
+    "food type": "Japanese ",
+    "average price": "60.0",
+    "reservation required": "Y",
+    "seating capacity": "6.0"
+  },
+  {
+    "restaurant": "Molière",
+    "location": "Hokkaido, Japan",
+    "food type": "Japanese",
+    "average price": "70.0",
+    "reservation required": "Y",
+    "seating capacity": "7.0"
+  },
+  {
+    "restaurant": "Hanakoji Sawada",
+    "location": "Hokkaido, Japan",
+    "food type": "Japanese",
+    "average price": "118.0",
+    "reservation required": "Y",
+    "seating capacity": "10.0"
+  },
+  {
+    "restaurant": "Sushi Miyakawa",
+    "location": "Hokkaido, Japan",
+    "food type": "Japanese - Sushi",
+    "average price": "151.0",
+    "reservation required": "Y",
+    "seating capacity": "7.0"
+  },
+  {
+    "restaurant": "Ca Sento",
+    "location": "Kobe, Japan",
+    "food type": "Spanish",
+    "average price": "112.0",
+    "reservation required": "Y",
+    "seating capacity": "20.0"
+  },
+  {
+    "restaurant": "Komago",
+    "location": "Kobe, Japan",
+    "food type": "Japanese",
+    "average price": "87.0",
+    "reservation required": "Y",
+    "seating capacity": "26.0"
+  },
+  {
+    "restaurant": "Chihana",
+    "location": "Kyoto, Japan",
+    "food type": "Japanese",
+    "average price": "236.0",
+    "reservation required": "Y",
+    "seating capacity": "20.0"
+  },
+  {
+    "restaurant": "Hyotei",
+    "location": "Kyoto, Japan",
+    "food type": "Japanese",
+    "average price": "300.0",
+    "reservation required": "Y",
+    "seating capacity": "60.0"
+  },
+  {
+    "restaurant": "Kikunoi Honten",
+    "location": "Kyoto, Japan",
+    "food type": "Japanese",
+    "average price": "213.0",
+    "reservation required": "Y",
+    "seating capacity": "50.0"
+  },
+  {
+    "restaurant": "Kitcho Arashiyama",
+    "location": "Kyoto, Japan",
+    "food type": "Japanese",
+    "average price": "567.0",
+    "reservation required": "Y",
+    "seating capacity": "56.0"
+  },
+  {
+    "restaurant": "Mizai",
+    "location": "Kyoto, Japan",
+    "food type": "Japanese",
+    "average price": "306.0",
+    "reservation required": "Y",
+    "seating capacity": "10.0"
+  },
+  {
+    "restaurant": "Nakamura",
+    "location": "Kyoto, Japan",
+    "food type": "Japanese",
+    "average price": "210.0",
+    "reservation required": "Y",
+    "seating capacity": "30.0"
+  },
+  {
+    "restaurant": "Wa Yamamura",
+    "location": "Nara, Japan",
+    "food type": "Japanese",
+    "average price": "78.0",
+    "reservation required": "Y",
+    "seating capacity": "27.0"
+  },
+  {
+    "restaurant": "Kashiwaya",
+    "location": "Osaka, Japan",
+    "food type": "Japanese",
+    "average price": "200.0",
+    "reservation required": "Y",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Taian",
+    "location": "Osaka, Japan",
+    "food type": "Japanese",
+    "average price": "123.0",
+    "reservation required": "Y",
+    "seating capacity": "17.0"
+  },
+  {
+    "restaurant": "Koryu",
+    "location": "Osaka, Japan",
+    "food type": "Japanese",
+    "average price": "248.0",
+    "reservation required": "Y",
+    "seating capacity": "12.0"
+  },
+  {
+    "restaurant": "Kouan",
+    "location": "Sh_nan, Japan",
+    "food type": "Japanese",
+    "average price": "109.0",
+    "reservation required": "Y",
+    "seating capacity": "34.0"
+  },
+  {
+    "restaurant": "Joël Robuchon",
+    "location": "Tokyo, Japan",
+    "food type": "French",
+    "average price": "210.0",
+    "reservation required": "Y",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Kanda",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese",
+    "average price": "236.0",
+    "reservation required": "Y",
+    "seating capacity": "12.0"
+  },
+  {
+    "restaurant": "Quintessence",
+    "location": "Tokyo, Japan",
+    "food type": "French",
+    "average price": "140.0",
+    "reservation required": "Y",
+    "seating capacity": "18.0"
+  },
+  {
+    "restaurant": "Sukiyabashi Jiro",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese - Sushi",
+    "average price": "284.0",
+    "reservation required": "Y",
+    "seating capacity": "10.0"
+  },
+  {
+    "restaurant": "Ishikawa",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese",
+    "average price": "236.0",
+    "reservation required": "Y",
+    "seating capacity": "30.0"
+  },
+  {
+    "restaurant": "Saito",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese - Sushi",
+    "average price": "142.0",
+    "reservation required": "Y",
+    "seating capacity": "7.0"
+  },
+  {
+    "restaurant": "Yukimura",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese",
+    "average price": "284.0",
+    "reservation required": "Y",
+    "seating capacity": "7.0"
+  },
+  {
+    "restaurant": "Usukifugu Yamadaya",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese",
+    "average price": "245.0",
+    "reservation required": "Y",
+    "seating capacity": "13.0"
+  },
+  {
+    "restaurant": "Ryugin",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese - Sushi",
+    "average price": "236.0",
+    "reservation required": "Y",
+    "seating capacity": "24.0"
+  },
+  {
+    "restaurant": "Yoshitake",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese - Sushi",
+    "average price": "236.0",
+    "reservation required": "Y",
+    "seating capacity": "11.0"
+  },
+  {
+    "restaurant": "Makimura",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese",
+    "average price": "156.0",
+    "reservation required": "Y",
+    "seating capacity": "14.0"
+  },
+  {
+    "restaurant": "Kohaku",
+    "location": "Tokyo, Japan",
+    "food type": "Japanese",
+    "average price": "180.0",
+    "reservation required": "Y",
+    "seating capacity": "22.0"
+  },
+  {
+    "restaurant": "Yamazaki",
+    "location": "Toyama, Japan",
+    "food type": "Japanese",
+    "average price": "87.0",
+    "reservation required": "Y",
+    "seating capacity": "26.0"
+  },
+  {
+    "restaurant": "Le Louis XV",
+    "location": "Monaco",
+    "food type": "Mediterranean",
+    "average price": "331.0",
+    "reservation required": "Y",
+    "seating capacity": "20.0"
+  },
+  {
+    "restaurant": "De Leest",
+    "location": "Vaassen, Netherlands",
+    "food type": "Modern French",
+    "average price": "133.0",
+    "reservation required": "N",
+    "seating capacity": "45.0"
+  },
+  {
+    "restaurant": "De Librije",
+    "location": "Zwolle, Netherlands",
+    "food type": "Modern",
+    "average price": "197.0",
+    "reservation required": "Y",
+    "seating capacity": "35.0"
+  },
+  {
+    "restaurant": "Maaemo",
+    "location": "Oslo, Norway",
+    "food type": "Modern ",
+    "average price": "318.0",
+    "reservation required": "Y",
+    "seating capacity": "30.0"
+  },
+  {
+    "restaurant": "Joël Robuchon",
+    "location": "Singapore",
+    "food type": "French Contemporary",
+    "average price": "273.0",
+    "reservation required": "Y",
+    "seating capacity": "32.0"
+  },
+  {
+    "restaurant": "Maison Lameloise",
+    "location": "Chagny, France",
+    "food type": "Modern French",
+    "average price": "168.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "36.0"
+  },
+  {
+    "restaurant": "Le 1947",
+    "location": "Courchevel, France",
+    "food type": "Creative",
+    "average price": "328.0",
+    "reservation required": "N",
+    "seating capacity": "22.0"
+  },
+  {
+    "restaurant": "Les Prés d'Eugénie",
+    "location": "Eugénie-les-Bains, France",
+    "food type": "Classic French",
+    "average price": "209.0",
+    "reservation required": "N",
+    "seating capacity": "48.0"
+  },
+  {
+    "restaurant": "L'Auberge du Vieux Puits",
+    "location": "Fontjoncouse, France",
+    "food type": "Creative",
+    "average price": "185.0",
+    "reservation required": "N",
+    "seating capacity": "120.0"
+  },
+  {
+    "restaurant": "Auberge de l’Ill",
+    "location": "Illhaeusern, France",
+    "food type": "Classic French",
+    "average price": "244.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "66.0"
+  },
+  {
+    "restaurant": "Bras",
+    "location": "Laguiole, France",
+    "food type": "Creative",
+    "average price": "204.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "50.0"
+  },
+  {
+    "restaurant": "L'Auberge du Pont de Collonges",
+    "location": "Greater Lyon, France",
+    "food type": "Classic French",
+    "average price": "243.0",
+    "reservation required": "N",
+    "seating capacity": "36.0"
+  },
+  {
+    "restaurant": "Le Petit Nice",
+    "location": "Marseille, France",
+    "food type": "Seafood",
+    "average price": "273.0",
+    "reservation required": "N",
+    "seating capacity": "56.0"
+  },
+  {
+    "restaurant": "Flocons de Sel",
+    "location": "Megève, France",
+    "food type": "Creative",
+    "average price": "226.0",
+    "reservation required": "N",
+    "seating capacity": "22.0"
+  },
+  {
+    "restaurant": "L'Ambroisie",
+    "location": "Paris, France",
+    "food type": "Classic French",
+    "average price": "310.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "120.0"
+  },
+  {
+    "restaurant": "L'Arpège",
+    "location": "Paris, France",
+    "food type": "Creative",
+    "average price": "49.0",
+    "reservation required": "N",
+    "seating capacity": "50.0"
+  },
+  {
+    "restaurant": "Pierre Gagnaire",
+    "location": "Paris, France",
+    "food type": "Creative",
+    "average price": "284.0",
+    "reservation required": "N",
+    "seating capacity": "52.0"
+  },
+  {
+    "restaurant": "Restaurant Guy Savoy",
+    "location": "Paris, France",
+    "food type": "Creative",
+    "average price": "406.0",
+    "reservation required": "N",
+    "seating capacity": "30.0"
+  },
+  {
+    "restaurant": "L'Astrance",
+    "location": "Paris, France",
+    "food type": "Creative",
+    "average price": "174.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "28.0"
+  },
+  {
+    "restaurant": "Le Pré Catelan",
+    "location": "Paris, France",
+    "food type": "Creative",
+    "average price": "258.0",
+    "reservation required": "N",
+    "seating capacity": "75.0"
+  },
+  {
+    "restaurant": "Epicure",
+    "location": "Paris, France",
+    "food type": "Modern French",
+    "average price": "296.0",
+    "reservation required": "N",
+    "seating capacity": "18.0"
+  },
+  {
+    "restaurant": "Le Pavilion Ledoyen",
+    "location": "Paris, France",
+    "food type": "Modern French",
+    "average price": "300.0",
+    "reservation required": "N",
+    "seating capacity": "45.0"
+  },
+  {
+    "restaurant": "Le Cinq",
+    "location": "Paris, France",
+    "food type": "Modern French",
+    "average price": "313.0",
+    "reservation required": "N",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Alain Ducasse au Plaza Athénée",
+    "location": "Paris, France",
+    "food type": "Creative",
+    "average price": "348.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "60.0"
+  },
+  {
+    "restaurant": "L'Assiette Champenoise",
+    "location": "Reims, France",
+    "food type": "Creative",
+    "average price": "174.0",
+    "reservation required": "N",
+    "seating capacity": "35.0"
+  },
+  {
+    "restaurant": "La Maison Troisgros",
+    "location": "Roanne, France",
+    "food type": "Creative",
+    "average price": "255.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Régis et Jacques Marcon",
+    "location": "Saint-Bonnet-le-Froid, France",
+    "food type": "Creative",
+    "average price": "194.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "50.0"
+  },
+  {
+    "restaurant": "La Bouitte",
+    "location": "Saint-Martin-de-Belleville, France",
+    "food type": "Creative",
+    "average price": "252.0",
+    "reservation required": "N",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "La Vague d'Or",
+    "location": "Saint-Tropez, France",
+    "food type": "Creative",
+    "average price": "331.0",
+    "reservation required": "N",
+    "seating capacity": "46.0"
+  },
+  {
+    "restaurant": "Pic",
+    "location": "Valence, France",
+    "food type": "Creative",
+    "average price": "255.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "48.0"
+  },
+  {
+    "restaurant": "Georges Blanc",
+    "location": "Vonnas, France",
+    "food type": "Creative",
+    "average price": "287.0",
+    "reservation required": "N - advisable",
+    "seating capacity": "110.0"
+  },
+  {
+    "restaurant": "Geranium",
+    "location": "Copenhagen, Denmark",
+    "food type": "Creative",
+    "average price": "312",
+    "reservation required": "Y",
+    "seating capacity": "24.0"
+  },
+  {
+    "restaurant": "Ultraviolet",
+    "location": "Shanghai, China",
+    "food type": "Creative",
+    "average price": "450",
+    "reservation required": "Y",
+    "seating capacity": "10.0"
+  },
+  {
+    "restaurant": "T'ang Court",
+    "location": "Shanghai, China",
+    "food type": "Chinese",
+    "average price": "140.0",
+    "reservation required": "Y",
+    "seating capacity": "110.0"
+  },
+  {
+    "restaurant": "The Eight",
+    "location": "Macau, China",
+    "food type": "Chinese",
+    "average price": "74.0",
+    "reservation required": "Y",
+    "seating capacity": "75.0"
+  },
+  {
+    "restaurant": "Robuchon au Dôme",
+    "location": "Macau, China",
+    "food type": "French",
+    "average price": "228.0",
+    "reservation required": "Y",
+    "seating capacity": "64.0"
+  },
+  {
+    "restaurant": "T'ang Court",
+    "location": "Hong Kong, China",
+    "food type": "Chinese",
+    "average price": "130.0",
+    "reservation required": "Y",
+    "seating capacity": "182.0"
+  },
+  {
+    "restaurant": "Sushi Shikon",
+    "location": "Hong Kong, China",
+    "food type": "Japanese - Sushi",
+    "average price": "224.0",
+    "reservation required": "Y",
+    "seating capacity": "8.0"
+  },
+  {
+    "restaurant": "Bo Innovation",
+    "location": "Hong Kong, China",
+    "food type": "Creative",
+    "average price": "183.0",
+    "reservation required": "Y",
+    "seating capacity": "20.0"
+  },
+  {
+    "restaurant": "L'Atelier de Joël Robuchon",
+    "location": "Hong Kong, China",
+    "food type": "Fench",
+    "average price": "163.0",
+    "reservation required": "Y",
+    "seating capacity": "70.0"
+  },
+  {
+    "restaurant": "8½ Otto e Mezzo Bombana",
+    "location": "Hong Kong, China",
+    "food type": "Italian",
+    "average price": "116.0",
+    "reservation required": "Y",
+    "seating capacity": "78.0"
+  },
+  {
+    "restaurant": "Lung King Heen",
+    "location": "Hong Kong, China",
+    "food type": "Chinese",
+    "average price": "192.0",
+    "reservation required": "Y",
+    "seating capacity": "128.0"
+  },
+  {
+    "restaurant": "Hertog Jan",
+    "location": "Zedelgem, Belgium",
+    "food type": "Creative",
+    "average price": "389.0",
+    "reservation required": "Y",
+    "seating capacity": "80.0"
+  },
+  {
+    "restaurant": "Hof van Cleve",
+    "location": "Kruishoutem, Belgium",
+    "food type": "Creative",
+    "average price": "325.0",
+    "reservation required": "N",
+    "seating capacity": "24.0"
+  },
+  {
+    "restaurant": "Gaon",
+    "location": "Seoul, South Korea",
+    "food type": "Korean",
+    "average price": "192.0",
+    "reservation required": "Y",
+    "seating capacity": "20.0"
+  },
+  {
+    "restaurant": "La Yeon",
+    "location": "Seoul, South Korea",
+    "food type": "Korean",
+    "average price": "134.0",
+    "reservation required": "Y",
+    "seating capacity": "36.0"
+  },
+  {
+    "restaurant": "Quique Dacosta",
+    "location": "Dénia, Spain",
+    "food type": "Creative",
+    "average price": "231.0",
+    "reservation required": "N",
+    "seating capacity": "26.0"
+  },
+  {
+    "restaurant": "Lasarte",
+    "location": "Barcelona, Spain",
+    "food type": "Creative",
+    "average price": "168.0",
+    "reservation required": "N",
+    "seating capacity": "60.0"
+  },
+  {
+    "restaurant": "El Celler de Can Roca",
+    "location": "Girona, Spain",
+    "food type": "Creative",
+    "average price": "197.0",
+    "reservation required": "Y",
+    "seating capacity": "45.0"
+  },
+  {
+    "restaurant": "Martín Berasategui",
+    "location": "Lasarte-Oria, Spain",
+    "food type": "Creative",
+    "average price": "210.0",
+    "reservation required": "N",
+    "seating capacity": "60.0"
+  },
+  {
+    "restaurant": "Azurmendi",
+    "location": "Larrabetzu, Spain",
+    "food type": "Creative",
+    "average price": "209.0",
+    "reservation required": "N",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "DiverXO",
+    "location": "Madrid, Spain",
+    "food type": "Creative",
+    "average price": "235.0",
+    "reservation required": "Y",
+    "seating capacity": "100.0"
+  },
+  {
+    "restaurant": "Sant Pau",
+    "location": "Sant Pol de Mar, Spain",
+    "food type": "Creative",
+    "average price": "167.0",
+    "reservation required": "N",
+    "seating capacity": "35.0"
+  },
+  {
+    "restaurant": "Arzak",
+    "location": "San Sebastián, Spain",
+    "food type": "Creative",
+    "average price": "216.0",
+    "reservation required": "N",
+    "seating capacity": "90.0"
+  },
+  {
+    "restaurant": "Akelarre",
+    "location": "San Sebastián, Spain",
+    "food type": "Creative",
+    "average price": "162.0",
+    "reservation required": "N",
+    "seating capacity": "48.0"
+  },
+  {
+    "restaurant": "Cheval Blanc",
+    "location": "Basel, Switzerland",
+    "food type": "French",
+    "average price": "166.0",
+    "reservation required": "N",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Restaurant de l'Hôtel de Ville",
+    "location": "Crissier, Switzerland",
+    "food type": "French",
+    "average price": "289.0",
+    "reservation required": "N",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Schauenstein",
+    "location": "Fürstenau, Switzerland",
+    "food type": "Creative",
+    "average price": "300.0",
+    "reservation required": "Y",
+    "seating capacity": "30.0"
+  },
+  {
+    "restaurant": "Benu",
+    "location": "San Francisco, United States",
+    "food type": "Asian",
+    "average price": "228.0",
+    "reservation required": "Y",
+    "seating capacity": "24.0"
+  },
+  {
+    "restaurant": "Coi",
+    "location": "San Francisco, United States",
+    "food type": "Seafood",
+    "average price": "195.0",
+    "reservation required": "N",
+    "seating capacity": "40.0"
+  },
+  {
+    "restaurant": "Manresa",
+    "location": "San Francisco, United States",
+    "food type": "Contemporary",
+    "average price": "185.0",
+    "reservation required": "N",
+    "seating capacity": "50.0"
+  },
+  {
+    "restaurant": "Quince",
+    "location": "San Francisco, United States",
+    "food type": "Italian",
+    "average price": "220.0",
+    "reservation required": "N",
+    "seating capacity": "80.0"
+  },
+  {
+    "restaurant": "Saison",
+    "location": "San Francisco, United States",
+    "food type": "New American",
+    "average price": "398.0",
+    "reservation required": "N",
+    "seating capacity": "72.0"
+  },
+  {
+    "restaurant": "The French Laundry",
+    "location": "San Francisco, United States",
+    "food type": "Contemporary",
+    "average price": "270.0",
+    "reservation required": "N",
+    "seating capacity": "60.0"
+  },
+  {
+    "restaurant": "The Restaurant at Meadowood",
+    "location": "San Francisco, United States",
+    "food type": "Contemporary",
+    "average price": "225.0",
+    "reservation required": "Y",
+    "seating capacity": "36.0"
+  },
+  {
+    "restaurant": "Grace",
+    "location": "Chicago, United States",
+    "food type": "Contemporary",
+    "average price": "235.0",
+    "reservation required": "N",
+    "seating capacity": "18.0"
+  },
+  {
+    "restaurant": "Alinea",
+    "location": "Chicago, United States",
+    "food type": "Contemporary",
+    "average price": "235.0",
+    "reservation required": "Y",
+    "seating capacity": "80.0"
+  },
+  {
+    "restaurant": "Per Se",
+    "location": "New York, United States",
+    "food type": "Contemporary",
+    "average price": "295.0",
+    "reservation required": "N",
+    "seating capacity": "72.0"
+  },
+  {
+    "restaurant": "Masa",
+    "location": "New York, United States",
+    "food type": "Japanese",
+    "average price": "300.0",
+    "reservation required": "N",
+    "seating capacity": "26.0"
+  },
+  {
+    "restaurant": "Eleven Madison Park",
+    "location": "New York, United States",
+    "food type": "Contemporary",
+    "average price": "215.0",
+    "reservation required": "N",
+    "seating capacity": "80.0"
+  },
+  {
+    "restaurant": "Chef's Table at Brooklyn Fare",
+    "location": "New York, United States",
+    "food type": "Seafood",
+    "average price": "306.0",
+    "reservation required": "Y",
+    "seating capacity": "18.0"
+  },
+  {
+    "restaurant": "Le Bernardin",
+    "location": "New York, United States",
+    "food type": "Seafood",
+    "average price": "200.0",
+    "reservation required": "N",
+    "seating capacity": "112.0"
+  }
+]

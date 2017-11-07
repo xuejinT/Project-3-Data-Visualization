@@ -1,0 +1,291 @@
+{
+  "data": [
+    [
+      "Victor's Fine Dining by christian bau",
+      "Perl, Germany",
+      "Creative",
+      "222.0",
+      "34.0"
+    ],
+    [
+      "Da Vittorio",
+      "Brusaporto, Italy",
+      "Modern Italian",
+      "227.0",
+      "36.0"
+    ],
+    [
+      "Dal Pescatore",
+      "Canneto sull'Oglio, Italy",
+      "Modern Italian",
+      "203.0",
+      "20.0"
+    ],
+    [
+      "Le Calandre",
+      "Rubano, Italy",
+      "Creative",
+      "210.0",
+      "24.0"
+    ],
+    [
+      "De Leest",
+      "Vaassen, Netherlands",
+      "Modern French",
+      "133.0",
+      "45.0"
+    ],
+    [
+      "Le 1947",
+      "Courchevel, France",
+      "Creative",
+      "328.0",
+      "22.0"
+    ],
+    [
+      "Les Prés d'Eugénie",
+      "Eugénie-les-Bains, France",
+      "Classic French",
+      "209.0",
+      "48.0"
+    ],
+    [
+      "L'Auberge du Vieux Puits",
+      "Fontjoncouse, France",
+      "Creative",
+      "185.0",
+      "120.0"
+    ],
+    [
+      "L'Auberge du Pont de Collonges",
+      "Greater Lyon, France",
+      "Classic French",
+      "243.0",
+      "36.0"
+    ],
+    [
+      "Le Petit Nice",
+      "Marseille, France",
+      "Seafood",
+      "273.0",
+      "56.0"
+    ],
+    [
+      "Flocons de Sel",
+      "Megève, France",
+      "Creative",
+      "226.0",
+      "22.0"
+    ],
+    [
+      "L'Arpège",
+      "Paris, France",
+      "Creative",
+      "49.0",
+      "50.0"
+    ],
+    [
+      "Pierre Gagnaire",
+      "Paris, France",
+      "Creative",
+      "284.0",
+      "52.0"
+    ],
+    [
+      "Restaurant Guy Savoy",
+      "Paris, France",
+      "Creative",
+      "406.0",
+      "30.0"
+    ],
+    [
+      "Le Pré Catelan",
+      "Paris, France",
+      "Creative",
+      "258.0",
+      "75.0"
+    ],
+    [
+      "Epicure",
+      "Paris, France",
+      "Modern French",
+      "296.0",
+      "18.0"
+    ],
+    [
+      "Le Pavilion Ledoyen",
+      "Paris, France",
+      "Modern French",
+      "300.0",
+      "45.0"
+    ],
+    [
+      "Le Cinq",
+      "Paris, France",
+      "Modern French",
+      "313.0",
+      "40.0"
+    ],
+    [
+      "L'Assiette Champenoise",
+      "Reims, France",
+      "Creative",
+      "174.0",
+      "35.0"
+    ],
+    [
+      "La Bouitte",
+      "Saint-Martin-de-Belleville, France",
+      "Creative",
+      "252.0",
+      "40.0"
+    ],
+    [
+      "La Vague d'Or",
+      "Saint-Tropez, France",
+      "Creative",
+      "331.0",
+      "46.0"
+    ],
+    [
+      "Hof van Cleve",
+      "Kruishoutem, Belgium",
+      "Creative",
+      "325.0",
+      "24.0"
+    ],
+    [
+      "Quique Dacosta",
+      "Dénia, Spain",
+      "Creative",
+      "231.0",
+      "26.0"
+    ],
+    [
+      "Lasarte",
+      "Barcelona, Spain",
+      "Creative",
+      "168.0",
+      "60.0"
+    ],
+    [
+      "Martín Berasategui",
+      "Lasarte-Oria, Spain",
+      "Creative",
+      "210.0",
+      "60.0"
+    ],
+    [
+      "Azurmendi",
+      "Larrabetzu, Spain",
+      "Creative",
+      "209.0",
+      "40.0"
+    ],
+    [
+      "Sant Pau",
+      "Sant Pol de Mar, Spain",
+      "Creative",
+      "167.0",
+      "35.0"
+    ],
+    [
+      "Arzak",
+      "San Sebastián, Spain",
+      "Creative",
+      "216.0",
+      "90.0"
+    ],
+    [
+      "Akelarre",
+      "San Sebastián, Spain",
+      "Creative",
+      "162.0",
+      "48.0"
+    ],
+    [
+      "Cheval Blanc",
+      "Basel, Switzerland",
+      "French",
+      "166.0",
+      "40.0"
+    ],
+    [
+      "Restaurant de l'Hôtel de Ville",
+      "Crissier, Switzerland",
+      "French",
+      "289.0",
+      "40.0"
+    ],
+    [
+      "Coi",
+      "San Francisco, United States",
+      "Seafood",
+      "195.0",
+      "40.0"
+    ],
+    [
+      "Manresa",
+      "San Francisco, United States",
+      "Contemporary",
+      "185.0",
+      "50.0"
+    ],
+    [
+      "Quince",
+      "San Francisco, United States",
+      "Italian",
+      "220.0",
+      "80.0"
+    ],
+    [
+      "Saison",
+      "San Francisco, United States",
+      "New American",
+      "398.0",
+      "72.0"
+    ],
+    [
+      "The French Laundry",
+      "San Francisco, United States",
+      "Contemporary",
+      "270.0",
+      "60.0"
+    ],
+    [
+      "Grace",
+      "Chicago, United States",
+      "Contemporary",
+      "235.0",
+      "18.0"
+    ],
+    [
+      "Per Se",
+      "New York, United States",
+      "Contemporary",
+      "295.0",
+      "72.0"
+    ],
+    [
+      "Masa",
+      "New York, United States",
+      "Japanese",
+      "300.0",
+      "26.0"
+    ],
+    [
+      "Eleven Madison Park",
+      "New York, United States",
+      "Contemporary",
+      "215.0",
+      "80.0"
+    ],
+    [
+      "Le Bernardin",
+      "New York, United States",
+      "Seafood",
+      "200.0",
+      "112.0"
+    ]
+  ]
+}

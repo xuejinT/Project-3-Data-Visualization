@@ -1,0 +1,158 @@
+/*custom css*/
+.header{
+	background-image: url(../header.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 8px;
+    padding-bottom: 35px;
+}
+#logo{
+	width:30%;
+}
+#home{
+	width:10%;
+}
+.text-center{
+	text-align: center;
+}
+h1{
+	padding-bottom: 10px;
+	font-family: 'Libre Baskerville', serif;
+}
+.content-header{
+	padding-top: 275px;
+	margin-left: -200px;
+}
+
+.credits{
+	font-family: sans-serif;
+	font-size: 8pt;
+	margin-bottom: 0.1rem;
+}
+.credits1{
+	font-size: 8pt;
+	margin-top: 0.2rem;
+}
+.intro{
+	margin-top: 50px;
+}
+
+.larger{
+	margin-top: 70px;
+}
+.small{
+	margin-top: 30px;
+}
+
+.largerer{
+	margin-top: 90px;
+}
+p{
+	font-family: 'Noto Serif', serif;
+	font-size: 14pt;
+	line-height: 140%;
+}
+
+h2{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 36pt;
+	line-height: 130%;
+
+}
+
+.title{
+	font-family: sans-serif;
+	font-size: 10pt;
+	/*margin-bottom: 0.1rem;*/
+	color:#497dd1;
+	padding-left: 50px;
+}
+
+.move{
+	margin-left: -20px;
+}
+.down{
+	padding-top: 30px;
+}
+#mapdiv{
+	border-radius: 5px;
+}
+/*
+mobile style*/
+@media only screen and (max-width: 768px) {
+  
+h1{
+	font-size: 22pt;
+}
+
+.content-header{
+	padding-top: 275px;
+	margin-left: -2px;
+}
+
+#logo{
+	width:60%;
+}
+
+#home{
+	width:20%;
+}
+
+.credits{
+	font-family: sans-serif;
+	font-size: 6pt;
+	margin-bottom: 0.1rem;
+}
+h2{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 20pt;
+	line-height: 130%;
+	padding-left: 18px;
+}
+
+p{
+	font-family: 'Noto Serif', serif;
+	font-size: 10pt;
+	line-height: 140%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.intro{
+	margin-top: 40px;
+}
+
+.larger{
+	margin-top: 60px;
+}
+.small{
+	margin-top: 20px;
+}
+
+.largerer{
+	margin-top: 80px;
+}
+
+.turn{
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+.move{
+	margin-left: 0;
+}
+.title{
+	font-family: sans-serif;
+	font-size: 10pt;
+	/*margin-bottom: 0.1rem;*/
+	color:#497dd1;
+	padding-left: 15px;
+}
+.header{
+	background-image: url(../mobo.png); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 8px;
+    padding-bottom: 35px;
+}
+}

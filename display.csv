@@ -1,0 +1,127 @@
+Restaurant,Location,Food Type,Average Price (USD),Reservation Required,Seating Capacity
+Fat Duck,"Bray, Berkshire, United Kindom",Creative,350,Y,40
+Waterside Inn,"Bray, Berkshire, United Kindom",French,235,Y,75
+Gordon Ramsay,"London, United Kindom",French,195,Y,45
+Alain Ducasse at The Dorchester,"London, United Kindom",Modern French,195,Y,82
+The Araki,"London, United Kindom",Japanese,490,Y,9
+Schwarzwaldstube,"Berlin, Germany",French,220,Y,35
+Restaurant Bareiss,"Baiersbornn, Germanny",French,185,Y,35
+Vendôme,"Baiersbronn, Germany",Creative,232,N - advisable,40
+Waldhotel Sonnora,"Dreis, Germany",French,184,N - advisable,40
+The Table,"Hamburg, Germany",Creative,226,Y,20
+La Vie,"Osnabruck, Germany",Creative,235,N - advisable,40
+Victor's Fine Dining by christian bau,"Perl, Germany",Creative,222,N,34
+Restaurant Überfahrt Christian Jürgens,"Rottach-Egern, Germany",Creative,222,Y,40
+GästeHaus Klaus Erfort,"Saarbrucken, Germany",French,177,N - advisable,35
+Aqua,"Wolfsburg, Germany",Creative,207,N - advisable,36
+Piazza Duomo,"Alba, Italy",Creative,214,N - advisable,35
+Da Vittorio,"Brusaporto, Italy",Modern Italian,227,N,36
+Dal Pescatore,"Canneto sull'Oglio, Italy",Modern Italian,203,N,20
+Reale,"Castel di Sangro, Italy",Creative,149,N - advisable,24
+Enoteca Pinchiorri,"Florence, Italy",Modern Italian,267,N - advisable,35
+Osteria Francescana,"Modena, Italy",Creative,250,N - advisable,30
+La Pergola,"Rome, Italy",Modern Italian,208,Y,120
+Le Calandre,"Rubano, Italy",Creative,210,N,24
+Gyoten,"Fukuoka, Japna",Japanese - Sushi,170,Y,10
+Nakashima,"Hiroshima, Japna",Japanese ,60,Y,6
+Molière,"Hokkaido, Japna",Japanese,70,Y,7
+Hanakoji Sawada,"Hokkaido, Japna",Japanese,118,Y,10
+Sushi Miyakawa,"Hokkaido, Japna",Japanese - Sushi,151,Y,7
+Ca Sento,"Kobe, Japna",Spanish,112,Y,20
+Komago,"Kobe, Japna",Japanese,87,Y,26
+Chihana,"Kyoto, Japna",Japanese,236,Y,20
+Hyotei,"Kyoto, Japna",Japanese,300,Y,60
+Kikunoi Honten,"Kyoto, Japna",Japanese,213,Y,50
+Kitcho Arashiyama,"Kyoto, Japna",Japanese,567,Y,56
+Mizai,"Kyoto, Japna",Japanese,306,Y,10
+Nakamura,"Kyoto, Japna",Japanese,210,Y,30
+Wa Yamamura,"Nara, Japna",Japanese,78,Y,27
+Kashiwaya,"Osaka, Japna",Japanese,200,Y,40
+Taian,"Osaka, Japna",Japanese,123,Y,17
+Koryu,"Osaka, Japna",Japanese,248,Y,12
+Kouan,"Sh_nan, Japna",Japanese,109,Y,34
+Joël Robuchon,"Tokyo, Japna",French,210,Y,40
+Kanda,"Tokyo, Japna",Japanese,236,Y,12
+Quintessence,"Tokyo, Japna",French,140,Y,18
+Sukiyabashi Jiro,"Tokyo, Japna",Japanese - Sushi,284,Y,10
+Ishikawa,"Tokyo, Japna",Japanese,236,Y,30
+Saito,"Tokyo, Japna",Japanese - Sushi,142,Y,7
+Yukimura,"Tokyo, Japna",Japanese,284,Y,7
+Usukifugu Yamadaya,"Tokyo, Japna",Japanese,245,Y,13
+Ryugin,"Tokyo, Japna",Japanese - Sushi,236,Y,24
+Yoshitake,"Tokyo, Japna",Japanese - Sushi,236,Y,11
+Makimura,"Tokyo, Japna",Japanese,156,Y,14
+Kohaku,"Tokyo, Japna",Japanese,180,Y,22
+Yamazaki,"Toyama, Japna",Japanese,87,Y,26
+Le Louis XV,Monaco,Mediterranean,331,Y,20
+De Leest,"Vaassen, Netherlands",Modern French,133,N,45
+De Librije,"Zwolle, Netherlands",Modern,197,Y,35
+Maaemo,"Oslo, Norway",Modern ,318,Y,30
+Joël Robuchon,Singapore,French Contemporary,273,Y,32
+Maison Lameloise,"Chagny, France",Modern French,168,N - advisable,36
+Le 1947,"Courchevel, France",Creative,328,N,22
+Les Prés d'Eugénie,"Eugénie-les-Bains, France",Classic French,209,N,48
+L'Auberge du Vieux Puits,"Fontjoncouse, France",Creative,185,N,120
+Auberge de l’Ill,"Illhaeusern, France",Classic French,244,N - advisable,66
+Bras,"Laguiole, France",Creative,204,N - advisable,50
+L'Auberge du Pont de Collonges,"Greater Lyon, France",Classic French,243,N,36
+Le Petit Nice,"Marseille, France",Seafood,273,N,56
+Flocons de Sel,"Megève, France",Creative,226,N,22
+L'Ambroisie,"Paris, France",Classic French,310,N - advisable,120
+L'Arpège,"Paris, France",Creative,49,N,50
+Pierre Gagnaire,"Paris, France",Creative,284,N,52
+Restaurant Guy Savoy,"Paris, France",Creative,406,N,30
+L'Astrance,"Paris, France",Creative,174,N - advisable,28
+Le Pré Catelan,"Paris, France",Creative,258,N,75
+Epicure,"Paris, France",Modern French,296,N,18
+Le Pavilion Ledoyen,"Paris, France",Modern French,300,N,45
+Le Cinq,"Paris, France",Modern French,313,N,40
+Alain Ducasse au Plaza Athénée,"Paris, France",Creative,348,N - advisable,60
+L'Assiette Champenoise,"Reims, France",Creative,174,N,35
+La Maison Troisgros,"Roanne, France",Creative,255,N - advisable,40
+Régis et Jacques Marcon,"Saint-Bonnet-le-Froid, France",Creative,194,N - advisable,50
+La Bouitte,"Saint-Martin-de-Belleville, France",Creative,252,N,40
+La Vague d'Or,"Saint-Tropez, France",Creative,331,N,46
+Pic,"Valence, France",Creative,255,N - advisable,48
+Georges Blanc,"Vonnas, France",Creative,287,N - advisable,110
+Geranium,"Copenhagen, Denmark",Creative,312,Y,24
+Ultraviolet,"Shanghai, China",Creative,450,Y,10
+T'ang Court,"Shanghai, China",Chinese,140,Y,110
+The Eight,"Macau, China",Chinese,74,Y,75
+Robuchon au Dôme,"Macau, China",French,228,Y,64
+T'ang Court,"Hong Kong, China",Chinese,130,Y,182
+Sushi Shikon,"Hong Kong, China",Japanese - Sushi,224,Y,8
+Bo Innovation,"Hong Kong, China",Creative,183,Y,20
+L'Atelier de Joël Robuchon,"Hong Kong, China",Fench,163,Y,70
+8½ Otto e Mezzo Bombana,"Hong Kong, China",Italian,116,Y,78
+Lung King Heen,"Hong Kong, China",Chinese,192,Y,128
+Hertog Jan,"Zedelgem, Belgium",Creative,389,Y,80
+Hof van Cleve,"Kruishoutem, Belgium",Creative,325,N,24
+Gaon,"Seoul, South Korea",Korean,192,Y,20
+La Yeon,"Seoul, South Korea",Korean,134,Y,36
+Quique Dacosta,"Dénia, Spain",Creative,231,N,26
+Lasarte,"Barcelona, Spain",Creative,168,N,60
+El Celler de Can Roca,"Girona, Spain",Creative,197,Y,45
+Martín Berasategui,"Lasarte-Oria, Spain",Creative,210,N,60
+Azurmendi,"Larrabetzu, Spain",Creative,209,N,40
+DiverXO,"Madrid, Spain",Creative,235,Y,100
+Sant Pau,"Sant Pol de Mar, Spain",Creative,167,N,35
+Arzak,"San Sebastián, Spain",Creative,216,N,90
+Akelarre,"San Sebastián, Spain",Creative,162,N,48
+Cheval Blanc,"Basel, Switzerland",French,166,N,40
+Restaurant de l'Hôtel de Ville,"Crissier, Switzerland",French,289,N,40
+Schauenstein,"Fürstenau, Switzerland",Creative,300,Y,30
+Benu,"San Francisco, United States",Asian,228,Y,24
+Coi,"San Francisco, United States",Seafood,195,N,40
+Manresa,"San Francisco, United States",Contemporary,185,N,50
+Quince,"San Francisco, United States",Italian,220,N,80
+Saison,"San Francisco, United States",New American,398,N,72
+The French Laundry,"San Francisco, United States",Contemporary,270,N,60
+The Restaurant at Meadowood,"San Francisco, United States",Contemporary,225,Y,36
+Grace,"Chicago, United States",Contemporary,235,N,18
+Alinea,"Chicago, United States",Contemporary,235,Y,80
+Per Se,"New York, United States",Contemporary,295,N,72
+Masa,"New York, United States",Japanese,300,N,26
+Eleven Madison Park,"New York, United States",Contemporary,215,N,80
+Chef's Table at Brooklyn Fare,"New York, United States",Seafood,306,Y,18
+Le Bernardin,"New York, United States",Seafood,200,N,112
